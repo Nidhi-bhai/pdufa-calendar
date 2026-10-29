@@ -1571,5 +1571,31 @@
 "filedAt": "2026-08-13",
 "secUrl": "https://www.sec.gov/Archives/edgar/data/1953926/000110465926095437/tm2622871d1_ex99-1.htm",
 "firstSeen": "2026-10-23"
+},
+"VNDA|https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/vnda8-k10282026exhibit991.htm|December 12, 2026": {
+"ticker": "VNDA",
+"company": "Vanda Pharmaceuticals Inc.",
+"cik": "1347178",
+"pdufaDate": "2026-12-12",
+"pdufaDateText": "December 12, 2026",
+"dateIsExact": true,
+"evidenceQuote": "\u2022 The Biologics License Application (BLA) for Quimilza\u2122 in Generalized Pustular Psoriasis (GPP) is under review by the FDA with a Prescription Drug User Fee Act (PDUFA) target action date of December 12, 2026.",
+"formType": "8-K",
+"filedAt": "2026-10-28",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/vnda8-k10282026exhibit991.htm",
+"firstSeen": "2026-10-29"
+},
+"PVLA|https://www.sec.gov/Archives/edgar/data/1583648/000119312526435113/pvla-ex99_1.htm|February 28, 2027": {
+"ticker": "PVLA",
+"company": "PALVELLA THERAPEUTICS, INC.",
+"cik": "1583648",
+"pdufaDate": "2027-02-28",
+"pdufaDateText": "February 28, 2027",
+"dateIsExact": true,
+"evidenceQuote": "With compelling Phase 3 SELVA results and a February 28, 2027 PDUFA target action date, we believe we are closer than ever to delivering on that mission.",
+"formType": "8-K",
+"filedAt": "2026-10-28",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526435113/pvla-ex99_1.htm",
+"firstSeen": "2026-10-29"
 }
 }
