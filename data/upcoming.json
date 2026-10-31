@@ -1,17 +1,5 @@
 [
  {
-  "ticker": "INO",
-  "company": "INOVIO PHARMACEUTICALS, INC.",
-  "cik": "1055726",
-  "pdufaDate": "2026-10-30",
-  "pdufaDateText": "October 30, 2026",
-  "dateIsExact": true,
-  "evidenceQuote": "the FDA's continued review of our BLA for INO-3107 toward a PDUFA target action date of October 30, 2026;",
-  "formType": "8-K",
-  "filedAt": "2026-08-12",
-  "secUrl": "https://www.sec.gov/Archives/edgar/data/1055726/000105572626000024/ino-63026x8kex991.htm"
- },
- {
   "ticker": "AGIO",
   "company": "AGIOS PHARMACEUTICALS, INC.",
   "cik": "1439222",
