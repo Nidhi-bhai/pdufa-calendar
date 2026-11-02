@@ -1,17 +1,5 @@
 [
  {
-  "ticker": "AGIO",
-  "company": "AGIOS PHARMACEUTICALS, INC.",
-  "cik": "1439222",
-  "pdufaDate": "2026-11-01",
-  "pdufaDateText": "November 1, 2026",
-  "dateIsExact": true,
-  "evidenceQuote": "The Prescription Drug User Fee Act (PDUFA) goal date for this sNDA, submitted under the FDA\u2019s accelerated approval pathway, is November 1, 2026.",
-  "formType": "8-K",
-  "filedAt": "2026-07-30",
-  "secUrl": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000115/agio-73026xfyxex991earning.htm"
- },
- {
   "ticker": "BTAI",
   "company": "BioXcel Therapeutics, Inc.",
   "cik": "1720893",
