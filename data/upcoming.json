@@ -90,10 +90,10 @@
   "pdufaDate": "2026-11-30",
   "pdufaDateText": "November 30, 2026",
   "dateIsExact": true,
-  "evidenceQuote": "FDA accepted the BLA submission for accelerated approval of povetacicept for adults with IgAN and assigned a PDUFA target action date of November 30, 2026.",
+  "evidenceQuote": "FDA, with an assigned PDUFA target action date of November 30, 2026.",
   "formType": "8-K",
-  "filedAt": "2026-08-03",
-  "secUrl": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/ex-991_q22026.htm"
+  "filedAt": "2026-11-02",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/ex-991_q32026.htm"
  },
  {
   "ticker": "ZLAB",
@@ -294,10 +294,10 @@
   "pdufaDate": "2027-02-28",
   "pdufaDateText": "February 28, 2027",
   "dateIsExact": true,
-  "evidenceQuote": "\u2022 In July, BioMarin announced that the FDA accepted its sNDA for full approval of VOXZOGO in children with achondroplasia, with a Prescription Drug User Fee Act (PDUFA) target action date of February 28, 2027.",
+  "evidenceQuote": "\u2022 BioMarin\u2019s application for full approval of VOXZOGO in children with achondroplasia is under review by the FDA, with a PDUFA target action date of February 28, 2027.",
   "formType": "8-K",
-  "filedAt": "2026-08-06",
-  "secUrl": "https://www.sec.gov/Archives/edgar/data/1048477/000104847726000015/earningsrelease-6aug26ex991.htm"
+  "filedAt": "2026-11-02",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1048477/000104847726000021/earningsrelease-2nov26ex991.htm"
  },
  {
   "ticker": "LGND",
@@ -432,6 +432,18 @@
   "secUrl": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000044/exhibit99106302026.htm"
  },
  {
+  "ticker": "JAZZ",
+  "company": "Jazz Pharmaceuticals plc",
+  "cik": "1232524",
+  "pdufaDate": "2027-04-16",
+  "pdufaDateText": "April 16, 2027",
+  "dateIsExact": true,
+  "evidenceQuote": "\u2022 The PDUFA target action date for our New Drug Application (NDA) for the oral cannabidiol capsule formulation is April 16, 2027.",
+  "formType": "8-K",
+  "filedAt": "2026-11-02",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000056/a3q26earningsrelease.htm"
+ },
+ {
   "ticker": "MRK",
   "company": "Merck & Co., Inc.",
   "cik": "310158",
@@ -474,10 +486,22 @@
   "pdufaDate": "2027-05-01",
   "pdufaDateText": "May 1, 2027",
   "dateIsExact": true,
-  "evidenceQuote": "4 Anticipated Milestones \u2022 Clinical Trial Initiations and Progress: o Phase 2/3 trial of AXS-05 in smoking cessation, initiation (3Q 2026) \u2022 Clinical Trial Topline Results: o Phase 3 ENGAGE trial of solriamfetol in binge eating disorder (4Q 2026) o Phase 3 SUSTAIN trial of solriamfetol in shift work disorder (2027) \u2022 Regulatory and Commercial: o AXS-12 for narcolepsy, PDUFA target action (May 1, 2027) Conference Call Information Axsome will host a conference call and webcast today at 8:00 a.m.",
+  "evidenceQuote": "2015 Rare and debilitating neurological condition that affects approximately 185,000 people in the U.S.1 Characterized by cataplexy, excessive daytime sleepiness (EDS), hypnagogic hallucinations, sleep paralysis, and disrupted nocturnal sleep2-4 Up to 70% of patients suffer from cataplexy, or the sudden reduction or loss of muscle tone while awake5 Rate ratio* p=0.007 p=0.006 p=0.031 p=0.031 p=0.018 p<0.001 p=0.002 *Ratio of change in the AXS-12 group divided by the ratio of change in the placebo group (rate ratio of 1 = no difference) CONCERT SYMPHONY Rapid and robust reductions in cataplexy ",
   "formType": "8-K",
-  "filedAt": "2026-08-10",
-  "secUrl": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526341206/axsm-ex99_1.htm"
+  "filedAt": "2026-11-02",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526442628/axsm-ex99_2.htm"
+ },
+ {
+  "ticker": "QURE",
+  "company": "uniQure N.V.",
+  "cik": "1590560",
+  "pdufaDate": "2027-05-01",
+  "pdufaDateText": "May 1, 2027",
+  "dateIsExact": true,
+  "evidenceQuote": "whether the FDA will hold an advisory committee to discuss the BLA and the timing of such review and approval based on the Prescription Drug User Fee Act (\u201cPDUFA\u201d) target action date of May 1, 2027 for the BLA;",
+  "formType": "8-K",
+  "filedAt": "2026-11-02",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926120915/tm2628699d1_8k.htm"
  },
  {
   "ticker": "BBIO",
@@ -526,6 +550,18 @@
   "formType": "8-K",
   "filedAt": "2026-08-13",
   "secUrl": "https://www.sec.gov/Archives/edgar/data/1953926/000110465926095437/tm2622871d1_ex99-1.htm"
+ },
+ {
+  "ticker": "BMRN",
+  "company": "BIOMARIN PHARMACEUTICAL INC",
+  "cik": "1048477",
+  "pdufaDate": "2027-05-30",
+  "pdufaDateText": "May 30, 2027",
+  "dateIsExact": true,
+  "evidenceQuote": "Food and Drug Administration (FDA) has set a PDUFA target action date of May 30, 2027 for its supplemental NDA to expand the use of VOXZOGO for the treatment of HCH, the first potential targeted therapy for the condition.",
+  "formType": "8-K",
+  "filedAt": "2026-11-02",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1048477/000104847726000021/earningsrelease-2nov26ex991.htm"
  },
  {
   "ticker": "MRK",
