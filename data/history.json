@@ -1805,5 +1805,57 @@
 "filedAt": "2026-11-02",
 "secUrl": "https://www.sec.gov/Archives/edgar/data/1048477/000104847726000021/earningsrelease-2nov26ex991.htm",
 "firstSeen": "2026-11-03"
+},
+"CORT|https://www.sec.gov/Archives/edgar/data/1088856/000162828026069494/cort110326ex991pressrelease.htm|December 17, 2026": {
+"ticker": "CORT",
+"company": "CORCEPT THERAPEUTICS INC",
+"cik": "1088856",
+"pdufaDate": "2026-12-17",
+"pdufaDateText": "December 17, 2026",
+"dateIsExact": true,
+"evidenceQuote": "cites mifepristone as a potentially beneficial treatment \u2022 Relacorilant for patients with Cushing\u2019s syndrome \u2013 Resubmitted New Drug Application Prescription Drug User Fee Act (PDUFA) date of December 17, 2026 \u201cThe ADA and EASD consensus statement is an important advance for the many patients whose difficult-to-control hyperglycemia is a manifestation of undiagnosed Cushing\u2019s syndrome,\u201d said Bill Guyer, PharmD, Corcept\u2019s Chief Development Officer.",
+"formType": "8-K",
+"filedAt": "2026-11-03",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1088856/000162828026069494/cort110326ex991pressrelease.htm",
+"firstSeen": "2026-11-04"
+},
+"AQST|https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm|March 16, 2027": {
+"ticker": "AQST",
+"company": "Aquestive Therapeutics, Inc.",
+"cik": "1398733",
+"pdufaDate": "2027-03-16",
+"pdufaDateText": "March 16, 2027",
+"dateIsExact": true,
+"evidenceQuote": "The FDA acknowledged the resubmission as complete, classified it as a Class 2 response and assigned a Prescription Drug User Fee Act (PDUFA) goal date of March 16, 2027.",
+"formType": "8-K",
+"filedAt": "2026-11-03",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm",
+"firstSeen": "2026-11-04"
+},
+"AQST|https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm|March 23, 2027": {
+"ticker": "AQST",
+"company": "Aquestive Therapeutics, Inc.",
+"cik": "1398733",
+"pdufaDate": "2027-03-23",
+"pdufaDateText": "March 23, 2027",
+"dateIsExact": true,
+"evidenceQuote": "Final FDA approval for patients twelve years of age and older is subject to expiration of the orphan drug exclusivity for Valtoco\u00ae on January 10, 2027, and final FDA action, with a PDUFA goal date of March 23, 2027.",
+"formType": "8-K",
+"filedAt": "2026-11-03",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm",
+"firstSeen": "2026-11-04"
+},
+"AQST|https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm|March 29, 2027": {
+"ticker": "AQST",
+"company": "Aquestive Therapeutics, Inc.",
+"cik": "1398733",
+"pdufaDate": "2027-03-29",
+"pdufaDateText": "March 29, 2027",
+"dateIsExact": true,
+"evidenceQuote": "The Company has also submitted a Type 9 NDA seeking to add patients six to eleven years of age to the label, with a PDUFA goal date of March 29, 2027.",
+"formType": "8-K",
+"filedAt": "2026-11-03",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm",
+"firstSeen": "2026-11-04"
 }
 }
