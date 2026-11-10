@@ -2078,5 +2078,44 @@
 "filedAt": "2026-11-05",
 "secUrl": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526449926/cogt-ex99_1.htm",
 "firstSeen": "2026-11-06"
+},
+"PRAX|https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm|December 27, 2026": {
+"ticker": "PRAX",
+"company": "Praxis Precision Medicines, Inc.",
+"cik": "1689548",
+"pdufaDate": "2026-12-27",
+"pdufaDateText": "December 27, 2026",
+"dateIsExact": true,
+"evidenceQuote": "\u2022 The NDA for relutrigine for the treatment of SCN2A and SCN8A DEEs remains under FDA review, with a Prescription Drug User Fee Act (PDUFA) target action date of December 27, 2026.",
+"formType": "8-K",
+"filedAt": "2026-11-09",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm",
+"firstSeen": "2026-11-10"
+},
+"PRAX|https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm|January 29, 2027": {
+"ticker": "PRAX",
+"company": "Praxis Precision Medicines, Inc.",
+"cik": "1689548",
+"pdufaDate": "2027-01-29",
+"pdufaDateText": "January 29, 2027",
+"dateIsExact": true,
+"evidenceQuote": "\u2022 The New Drug Application (NDA) for ulixacaltamide remains under FDA review, with a Prescription Drug User Fee Act (PDUFA) target action date of January 29, 2027.",
+"formType": "8-K",
+"filedAt": "2026-11-09",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm",
+"firstSeen": "2026-11-10"
+},
+"IMNM|https://www.sec.gov/Archives/edgar/data/1472012/000119312526453556/imnm-ex99_1.htm|April 28, 2027": {
+"ticker": "IMNM",
+"company": "Immunome Inc.",
+"cik": "1472012",
+"pdufaDate": "2027-04-28",
+"pdufaDateText": "April 28, 2027",
+"dateIsExact": true,
+"evidenceQuote": "FDA accepted the varegacestat NDA in July 2026 and assigned a PDUFA target action date of April 28, 2027.",
+"formType": "8-K",
+"filedAt": "2026-11-09",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1472012/000119312526453556/imnm-ex99_1.htm",
+"firstSeen": "2026-11-10"
 }
 }
