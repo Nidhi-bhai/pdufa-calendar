@@ -42,10 +42,10 @@
   "pdufaDate": "2026-11-22",
   "pdufaDateText": "November 22, 2026",
   "dateIsExact": true,
-  "evidenceQuote": "EX-99.1 2 capr-20260824xex99d1.htm EX-99.1 Exhibit 99.1 Capricor Therapeutics Announces Extension of PDUFA Target Action Date as FDA Continues Review of Deramiocel BLA \u2013 New PDUFA target action date of November 22, 2026 follows submission of additional Phase 3 HOPE-3 data and analyses supporting a refined proposed indication \u2013 SAN DIEGO , Aug.",
+  "evidenceQuote": "PDUFA target action date of November 22, 2026 \u25cf Major BLA amendment added two-year open-label extension (OLE) HOPE-3 data and proposed a refined indication focused on upper limb impairment in patients > 9 years old \u25cf Two-year HOPE-3 OLE data presented at the World Muscle Society (WMS) Congress: 76% slower upper limb decline after patients switched from placebo to Deramiocel \u25cf HOPE-3 cardiac results received the American Heart Association (AHA) Outstanding Research Award in Pediatric Cardiology \u25cf Cash, cash equivalents, restricted cash and marketable securities of approximately $199 million as ",
   "formType": "8-K",
-  "filedAt": "2026-08-24",
-  "secUrl": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926100071/capr-20260824xex99d1.htm"
+  "filedAt": "2026-11-10",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm"
  },
  {
   "ticker": "BBIO",
@@ -442,6 +442,18 @@
   "formType": "8-K",
   "filedAt": "2026-11-05",
   "secUrl": "https://www.sec.gov/Archives/edgar/data/1710340/000171034026000006/eton-2026q332026xexx991.htm"
+ },
+ {
+  "ticker": "ATRA",
+  "company": "Atara Biotherapeutics, Inc.",
+  "cik": "1604464",
+  "pdufaDate": "2027-03-31",
+  "pdufaDateText": "March 31, 2027",
+  "dateIsExact": true,
+  "evidenceQuote": "The BLA has a Class 2 Resubmission Prescription Drug User Fee Act (PDUFA) target action date of March 31, 2027.",
+  "formType": "8-K",
+  "filedAt": "2026-11-10",
+  "secUrl": "https://www.sec.gov/Archives/edgar/data/1604464/000110465926125171/tmb-ex99d1.htm"
  },
  {
   "ticker": "HRMY",

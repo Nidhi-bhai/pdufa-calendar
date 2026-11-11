@@ -2117,5 +2117,31 @@
 "filedAt": "2026-11-09",
 "secUrl": "https://www.sec.gov/Archives/edgar/data/1472012/000119312526453556/imnm-ex99_1.htm",
 "firstSeen": "2026-11-10"
+},
+"CAPR|https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm|November 22, 2026": {
+"ticker": "CAPR",
+"company": "CAPRICOR THERAPEUTICS, INC.",
+"cik": "1133869",
+"pdufaDate": "2026-11-22",
+"pdufaDateText": "November 22, 2026",
+"dateIsExact": true,
+"evidenceQuote": "PDUFA target action date of November 22, 2026 \u25cf Major BLA amendment added two-year open-label extension (OLE) HOPE-3 data and proposed a refined indication focused on upper limb impairment in patients > 9 years old \u25cf Two-year HOPE-3 OLE data presented at the World Muscle Society (WMS) Congress: 76% slower upper limb decline after patients switched from placebo to Deramiocel \u25cf HOPE-3 cardiac results received the American Heart Association (AHA) Outstanding Research Award in Pediatric Cardiology \u25cf Cash, cash equivalents, restricted cash and marketable securities of approximately $199 million as ",
+"formType": "8-K",
+"filedAt": "2026-11-10",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm",
+"firstSeen": "2026-11-11"
+},
+"ATRA|https://www.sec.gov/Archives/edgar/data/1604464/000110465926125171/tmb-ex99d1.htm|March 31, 2027": {
+"ticker": "ATRA",
+"company": "Atara Biotherapeutics, Inc.",
+"cik": "1604464",
+"pdufaDate": "2027-03-31",
+"pdufaDateText": "March 31, 2027",
+"dateIsExact": true,
+"evidenceQuote": "The BLA has a Class 2 Resubmission Prescription Drug User Fee Act (PDUFA) target action date of March 31, 2027.",
+"formType": "8-K",
+"filedAt": "2026-11-10",
+"secUrl": "https://www.sec.gov/Archives/edgar/data/1604464/000110465926125171/tmb-ex99d1.htm",
+"firstSeen": "2026-11-11"
 }
 }
